@@ -681,6 +681,8 @@ To delete all created resources using the Console:
 6. **Regularly rotate credentials**
 7. **Enable audit logging**
 
+Comentario Dummy
+
 ## License
 
 MIT
